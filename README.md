@@ -1,2 +1,2 @@
 # testt
-testt repo
+testt repo for git command demonstration
